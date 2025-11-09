@@ -1,4 +1,4 @@
-a=3.45;
+a=3.22;
 a=int(a);
 print(type(a));
 b=123;
